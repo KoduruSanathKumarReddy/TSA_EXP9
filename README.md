@@ -77,19 +77,30 @@ plt.show()
 ### OUTPUT:
 ### Electric Production Over Time
 
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/34e77938-12aa-4f74-848e-1b68f8476465">
 
 
 ### Differenced Electric Production
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/883014e9-9c81-40e9-8bd7-aa433b483ec6">
+
 
 ### AutoCorrelation
 
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/189532e8-9dd8-4314-8667-66937de7e9ee">
+
 ### Partial Autocorrelation
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/4a66781e-92db-4a72-a331-603f9268cd3e">
 
 ### Model Results
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/069355a3-1f2e-472e-8e4c-e3e1fb1da8fd">
 
 
 
 ### Electric Production Forecast
+
+
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/9380dffd-5bbb-487a-929f-b3dd1efacf69">
+
 
 
 
