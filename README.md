@@ -1,5 +1,7 @@
 # EX.NO.09        A project on Time series analysis on Electric Production Data using ARIMA model 
 ### Date: 
+### Name:Koduru Sanath Kumar Reddy 
+### Register no: 212221240024
 
 ### AIM:
 To Create a project on Time series analysis on Electric Production Data using ARIMA model in  Python and compare with other models.
